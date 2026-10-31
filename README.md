@@ -87,10 +87,7 @@ flowchart LR
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravera&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravera&theme=github" alt="GitHub stats" width="49%" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravera&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravera&theme=github" alt="Most used languages" width="49%" />
-  </picture>
+  <img src="./assets/languages.svg" alt="Languages by code across all repos" width="49%" />
 </p>
 
 <p align="center">
