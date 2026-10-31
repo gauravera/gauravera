@@ -107,9 +107,10 @@ for (const repo of [...featured.map((f) => f.repo), ...more]) {
 
 const sum = Object.values(totals).reduce((a, b) => a + b, 0);
 const sorted = Object.entries(totals).sort((a, b) => b[1] - a[1]);
-const top = sorted.slice(0, 5);
-const rest = sorted.slice(5).reduce((a, [, b]) => a + b, 0);
-if (rest > 0) top.push(["Other", rest]);
+// Show up to 5 languages; anything under 0.1% would read as "0.0%", so it joins "Other".
+const top = sorted.slice(0, 5).filter(([, bytes]) => bytes / sum >= 0.001);
+const rest = sum - top.reduce((a, [, b]) => a + b, 0);
+if (rest / sum >= 0.001) top.push(["Other", rest]);
 const slices = top.map(([lang, bytes]) => ({ lang, share: bytes / sum, color: COLORS[lang] || OTHER_COLOR }));
 
 function arc(cx, cy, r0, r1, a0, a1) {
