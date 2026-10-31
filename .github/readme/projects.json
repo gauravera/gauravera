@@ -1,0 +1,49 @@
+{
+  "featured": [
+    {
+      "repo": "erpwa-1",
+      "title": "ERP-WA",
+      "description": "WhatsApp Business CRM with a shared team inbox, lead pipeline, template messaging and bulk sends.",
+      "stack": ["Next.js", "Express", "PostgreSQL", "Prisma", "BullMQ", "Socket.IO"]
+    },
+    {
+      "repo": "email-main",
+      "title": "AI Email Platform",
+      "description": "Multi-brand email campaigns with an inbox, analytics and AI-written emails.",
+      "stack": ["Next.js", "NextAuth", "Prisma", "Gemini", "AWS S3"]
+    },
+    {
+      "repo": "gym",
+      "title": "Gym Suite",
+      "description": "Gym management across web and mobile, with passkey login and live updates.",
+      "stack": ["Next.js", "Expo", "Express", "PostgreSQL", "WebAuthn"]
+    },
+    {
+      "repo": "wishes",
+      "title": "E-Card Magic",
+      "description": "Interactive greeting cards with recorded voice notes, secret unlock questions and QR sharing.",
+      "stack": ["Next.js", "React 19", "Three.js", "MongoDB"]
+    },
+    {
+      "repo": "Temple-Fund-Management-Using-Blockchain",
+      "title": "Temple Fund Management",
+      "description": "Records temple donations on-chain so every rupee can be traced.",
+      "stack": ["Solidity", "Polygon", "MetaMask", "Next.js", "MongoDB"]
+    },
+    {
+      "repo": "sitarahub",
+      "title": "SitaraHub Store",
+      "description": "E-commerce store with filters, wishlist and a checkout that autofills address from a PIN code.",
+      "stack": ["React", "Vite", "Tailwind"]
+    }
+  ],
+
+  "more": {
+    "i-support-wangchuk": "Civic transparency dashboard with a live incident feed and pledge form",
+    "indoglobaltradefair": "Website for the Indo Global Trade Fair",
+    "sitarahubtimes": "News and media portal",
+    "wedding-project": "Animated wedding invitation site"
+  },
+
+  "hide": ["gauravera", "erpwa", "email", "My-Profile", "Profile"]
+}
