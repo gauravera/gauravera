@@ -35,6 +35,7 @@ Right now I'm learning more **React Native** and getting deeper into **AI integr
 
 ### Projects
 
+<!-- PROJECTS:START -->
 | Project | Description |
 | :-- | :-- |
 | **[ERP-WA](https://github.com/gauravera/erpwa-1)** | WhatsApp Business CRM with a shared team inbox, lead pipeline, template messaging and bulk sends.<br /><sub>Next.js · Express · PostgreSQL · Prisma · BullMQ · Socket.IO</sub> |
@@ -43,17 +44,20 @@ Right now I'm learning more **React Native** and getting deeper into **AI integr
 | **[E-Card Magic](https://github.com/gauravera/wishes)** · [live](https://wishes-rose-three.vercel.app) | Interactive greeting cards with recorded voice notes, secret unlock questions and QR sharing.<br /><sub>Next.js · React 19 · Three.js · MongoDB</sub> |
 | **[Temple Fund Management](https://github.com/gauravera/Temple-Fund-Management-Using-Blockchain)** | Records temple donations on-chain so every rupee can be traced.<br /><sub>Solidity · Polygon · MetaMask · Next.js · MongoDB</sub> |
 | **[SitaraHub Store](https://github.com/gauravera/sitarahub)** | E-commerce store with filters, wishlist and a checkout that autofills address from a PIN code.<br /><sub>React · Vite · Tailwind</sub> |
+<!-- PROJECTS:END -->
 
 <details>
 <summary>More projects</summary>
 <br />
 
-| Project | Description |
-| :-- | :-- |
-| [i-support-wangchuk](https://github.com/gauravera/i-support-wangchuk) | Civic transparency dashboard with a live incident feed and pledge form |
-| [indoglobaltradefair](https://github.com/gauravera/indoglobaltradefair) | Website for the Indo Global Trade Fair |
-| [sitarahubtimes](https://github.com/gauravera/sitarahubtimes) | News and media portal |
-| [wedding-project](https://github.com/gauravera/wedding-project) | Animated wedding invitation site |
+<!-- MORE:START -->
+| Project | Description | Updated |
+| :-- | :-- | :-- |
+| [i-support-wangchuk](https://github.com/gauravera/i-support-wangchuk) | Civic transparency dashboard with a live incident feed and pledge form | Jul 2026 |
+| [indoglobaltradefair](https://github.com/gauravera/indoglobaltradefair) | Website for the Indo Global Trade Fair | Nov 2025 |
+| [sitarahubtimes](https://github.com/gauravera/sitarahubtimes) | News and media portal | Nov 2025 |
+| [wedding-project](https://github.com/gauravera/wedding-project) | Animated wedding invitation site | Sep 2025 |
+<!-- MORE:END -->
 
 </details>
 
