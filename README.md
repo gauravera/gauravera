@@ -38,7 +38,6 @@ Right now I'm learning more **React Native** and getting deeper into **AI integr
 <!-- PROJECTS:START -->
 | Project | Description |
 | :-- | :-- |
-| **[ERP-WA](https://github.com/gauravera/erpwa-1)** | WhatsApp Business CRM with a shared team inbox, lead pipeline, template messaging and bulk sends.<br /><sub>Next.js · Express · PostgreSQL · Prisma · BullMQ · Socket.IO</sub> |
 | **[AI Email Platform](https://github.com/gauravera/email-main)** · [live](https://email-gpserp.vercel.app) | Multi-brand email campaigns with an inbox, analytics and AI-written emails.<br /><sub>Next.js · NextAuth · Prisma · Gemini · AWS S3</sub> |
 | **[Gym Suite](https://github.com/gauravera/gym)** · [live](https://gym-phi-ashy.vercel.app) | Gym management across web and mobile, with passkey login and live updates.<br /><sub>Next.js · Expo · Express · PostgreSQL · WebAuthn</sub> |
 | **[E-Card Magic](https://github.com/gauravera/wishes)** · [live](https://wishes-rose-three.vercel.app) | Interactive greeting cards with recorded voice notes, secret unlock questions and QR sharing.<br /><sub>Next.js · React 19 · Three.js · MongoDB</sub> |
@@ -54,7 +53,6 @@ Right now I'm learning more **React Native** and getting deeper into **AI integr
 | Project | Description | Updated |
 | :-- | :-- | :-- |
 | [i-support-wangchuk](https://github.com/gauravera/i-support-wangchuk) | Civic transparency dashboard with a live incident feed and pledge form | Jul 2026 |
-| [indoglobaltradefair](https://github.com/gauravera/indoglobaltradefair) | Website for the Indo Global Trade Fair | Nov 2025 |
 | [sitarahubtimes](https://github.com/gauravera/sitarahubtimes) | News and media portal | Nov 2025 |
 | [wedding-project](https://github.com/gauravera/wedding-project) | Animated wedding invitation site | Sep 2025 |
 <!-- MORE:END -->
